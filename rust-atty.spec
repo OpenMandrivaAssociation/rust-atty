@@ -6,7 +6,7 @@
 
 Name:           rust-%{crate}
 Version:        0.2.14
-Release:        3
+Release:        4
 Summary:        Simple interface for querying atty
 
 # Upstream license specification: MIT
